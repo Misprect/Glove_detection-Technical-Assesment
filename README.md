@@ -4,7 +4,9 @@
 ## Dataset
 **Dataset Name:** ["gloves-detection-huhre", workspace- "abbos-aliboev"]
 **Source:** ["https://universe.roboflow.com/abbos-aliboev/gloves-detection-huhre/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true", "Roboflow Universe"]
-weights & biases(logs and validations testings)-[https://wandb.ai/jain-aryaman11-university-of-petroleum-and-energy-studies/train?nw=nwuserjainaryaman11 for better log and weight and biases view]
+
+**Weights & Biases**
+(logs and validations testings)-[https://wandb.ai/jain-aryaman11-university-of-petroleum-and-energy-studies/train?nw=nwuserjainaryaman11 for better log and weight and biases view]
 ## Model
 **Model Used:** YOLOv5s
 The model was trained for **30 epochs** to detect two classes: `gloves` and `no-gloves`.
