@@ -6,7 +6,7 @@
 **Source:** ["https://universe.roboflow.com/abbos-aliboev/gloves-detection-huhre/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true", "Roboflow Universe"]
 
 **Weights & Biases**
-(logs and validations testings)-[https://wandb.ai/jain-aryaman11-university-of-petroleum-and-energy-studies/train?nw=nwuserjainaryaman11 for better log and weight and biases view]
+(logs and validations testings)-["https://wandb.ai/jain-aryaman11-university-of-petroleum-and-energy-studies/train?nw=nwuserjainaryaman11"]
 ## Model
 **Model Used:** YOLOv5s
 The model was trained for **30 epochs** to detect two classes: `gloves` and `no-gloves`.
